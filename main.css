@@ -115,10 +115,11 @@ body {
 .img-container {
   position: relative;
   overflow: hidden;
+  border-radius: 5px;
 }
 .bag-btn {
   position: absolute;
-  top: 70%;
+  top: 50%;
   right: 0;
   background: var(--primaryColor);
   border: none;
